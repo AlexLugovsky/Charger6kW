@@ -3,7 +3,7 @@
 .\objects\hirestim.o: .\CMSIS\inc\stm32f3xx.h
 .\objects\hirestim.o: .\CMSIS\inc\stm32f334x8.h
 .\objects\hirestim.o: .\CMSIS\inc\core_cm4.h
-.\objects\hirestim.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hirestim.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\hirestim.o: .\CMSIS\inc\cmsis_version.h
 .\objects\hirestim.o: .\CMSIS\inc\cmsis_compiler.h
 .\objects\hirestim.o: .\CMSIS\inc\cmsis_armcc.h

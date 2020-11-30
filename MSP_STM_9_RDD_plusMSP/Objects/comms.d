@@ -6,7 +6,7 @@
 .\objects\comms.o: .\CMSIS\inc\Stm32f3xx.h
 .\objects\comms.o: .\CMSIS\inc\stm32f334x8.h
 .\objects\comms.o: .\CMSIS\inc\core_cm4.h
-.\objects\comms.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\comms.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\comms.o: .\CMSIS\inc\cmsis_version.h
 .\objects\comms.o: .\CMSIS\inc\cmsis_compiler.h
 .\objects\comms.o: .\CMSIS\inc\cmsis_armcc.h

@@ -12,7 +12,7 @@
 .\objects\telem.o: .\CMSIS\inc\stm32f3xx.h
 .\objects\telem.o: .\CMSIS\inc\stm32f334x8.h
 .\objects\telem.o: .\CMSIS\inc\core_cm4.h
-.\objects\telem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\telem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\telem.o: .\CMSIS\inc\cmsis_version.h
 .\objects\telem.o: .\CMSIS\inc\cmsis_compiler.h
 .\objects\telem.o: .\CMSIS\inc\cmsis_armcc.h

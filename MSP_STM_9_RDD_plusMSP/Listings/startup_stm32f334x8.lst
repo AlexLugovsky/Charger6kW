@@ -559,11 +559,11 @@ ARM Macro Assembler    Page 9
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
 erwork --depend=.\objects\startup_stm32f334x8.d -o.\objects\startup_stm32f334x8
-.o -I.\RTE\_AER07 -ID:\Keil_v5\Packs\Keil\STM32F3xx_DFP\2.1.0\Drivers\CMSIS\Dev
-ice\ST\STM32F3xx\Include -ID:\Keil_v5\ARM\CMSIS\Include --predefine="__UVISION_
-VERSION SETA 528" --predefine="STM32F334x8 SETA 1" --predefine="USE_STDPERIPH_D
-RIVER SETA 1" --list=.\listings\startup_stm32f334x8.lst Starup\startup_stm32f33
-4x8.s
+.o -I.\RTE\_AER07 -IC:\Users\1\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.1.0
+\Drivers\CMSIS\Device\ST\STM32F3xx\Include -IC:\Keil_v5\ARM\CMSIS\Include --pre
+define="__UVISION_VERSION SETA 528" --predefine="STM32F334x8 SETA 1" --predefin
+e="USE_STDPERIPH_DRIVER SETA 1" --list=.\listings\startup_stm32f334x8.lst Staru
+p\startup_stm32f334x8.s
 
 
 

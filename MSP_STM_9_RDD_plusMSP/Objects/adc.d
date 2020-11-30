@@ -3,7 +3,7 @@
 .\objects\adc.o: .\CMSIS\inc\stm32f3xx.h
 .\objects\adc.o: .\CMSIS\inc\stm32f334x8.h
 .\objects\adc.o: .\CMSIS\inc\core_cm4.h
-.\objects\adc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\adc.o: .\CMSIS\inc\cmsis_version.h
 .\objects\adc.o: .\CMSIS\inc\cmsis_compiler.h
 .\objects\adc.o: .\CMSIS\inc\cmsis_armcc.h

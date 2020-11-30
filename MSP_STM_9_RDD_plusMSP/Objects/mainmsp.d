@@ -1,5 +1,5 @@
 .\objects\mainmsp.o: MSP430\mainMSP.c
-.\objects\mainmsp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\signal.h
+.\objects\mainmsp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\signal.h
 .\objects\mainmsp.o: MSP430\variant.h
 .\objects\mainmsp.o: MSP430\mainMSP.h
 .\objects\mainmsp.o: MSP430\debug.h
@@ -7,7 +7,7 @@
 .\objects\mainmsp.o: .\CMSIS\inc\Stm32f3xx.h
 .\objects\mainmsp.o: .\CMSIS\inc\stm32f334x8.h
 .\objects\mainmsp.o: .\CMSIS\inc\core_cm4.h
-.\objects\mainmsp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mainmsp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\mainmsp.o: .\CMSIS\inc\cmsis_version.h
 .\objects\mainmsp.o: .\CMSIS\inc\cmsis_compiler.h
 .\objects\mainmsp.o: .\CMSIS\inc\cmsis_armcc.h
@@ -15,7 +15,7 @@
 .\objects\mainmsp.o: MSP430\util.h
 .\objects\mainmsp.o: MSP430\usci.h
 .\objects\mainmsp.o: MSP430\protocol.h
-.\objects\mainmsp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\mainmsp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
 .\objects\mainmsp.o: MSP430\sch.h
 .\objects\mainmsp.o: MSP430\io.h
 .\objects\mainmsp.o: MSP430\pwm.h

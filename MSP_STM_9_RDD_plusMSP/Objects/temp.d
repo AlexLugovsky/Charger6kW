@@ -7,4 +7,4 @@
 .\objects\temp.o: MSP430\variant.h
 .\objects\temp.o: MSP430\pwm.h
 .\objects\temp.o: MSP430\iqmath.h
-.\objects\temp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\temp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h

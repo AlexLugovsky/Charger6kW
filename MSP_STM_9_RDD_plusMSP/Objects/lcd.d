@@ -1,7 +1,7 @@
 .\objects\lcd.o: MSP430\lcd.c
-.\objects\lcd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\signal.h
-.\objects\lcd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-.\objects\lcd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\signal.h
+.\objects\lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\lcd.o: MSP430\variant.h
 .\objects\lcd.o: MSP430\lcd.h
 .\objects\lcd.o: MSP430\meas.h
@@ -10,7 +10,7 @@
 .\objects\lcd.o: .\CMSIS\inc\stm32f3xx.h
 .\objects\lcd.o: .\CMSIS\inc\stm32f334x8.h
 .\objects\lcd.o: .\CMSIS\inc\core_cm4.h
-.\objects\lcd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\lcd.o: .\CMSIS\inc\cmsis_version.h
 .\objects\lcd.o: .\CMSIS\inc\cmsis_compiler.h
 .\objects\lcd.o: .\CMSIS\inc\cmsis_armcc.h
@@ -18,7 +18,7 @@
 .\objects\lcd.o: MSP430\iqmath.h
 .\objects\lcd.o: MSP430\usci.h
 .\objects\lcd.o: MSP430\protocol.h
-.\objects\lcd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
 .\objects\lcd.o: MSP430\cfg.h
 .\objects\lcd.o: MSP430\time.h
 .\objects\lcd.o: MSP430\telem.h

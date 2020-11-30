@@ -12,7 +12,7 @@
 .\objects\cfg.o: .\CMSIS\inc\stm32f3xx.h
 .\objects\cfg.o: .\CMSIS\inc\stm32f334x8.h
 .\objects\cfg.o: .\CMSIS\inc\core_cm4.h
-.\objects\cfg.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\cfg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\cfg.o: .\CMSIS\inc\cmsis_version.h
 .\objects\cfg.o: .\CMSIS\inc\cmsis_compiler.h
 .\objects\cfg.o: .\CMSIS\inc\cmsis_armcc.h

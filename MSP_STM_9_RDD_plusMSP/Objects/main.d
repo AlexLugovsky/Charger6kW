@@ -2,7 +2,7 @@
 .\objects\main.o: .\CMSIS\inc\Stm32f3xx.h
 .\objects\main.o: .\CMSIS\inc\stm32f334x8.h
 .\objects\main.o: .\CMSIS\inc\core_cm4.h
-.\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\main.o: .\CMSIS\inc\cmsis_version.h
 .\objects\main.o: .\CMSIS\inc\cmsis_compiler.h
 .\objects\main.o: .\CMSIS\inc\cmsis_armcc.h
@@ -20,4 +20,4 @@
 .\objects\main.o: .\MSP430\io.h
 .\objects\main.o: .\MSP430\usci.h
 .\objects\main.o: .\MSP430\protocol.h
-.\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h

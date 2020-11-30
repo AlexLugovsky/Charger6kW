@@ -1,6 +1,6 @@
 .\objects\ctrl.o: MSP430\ctrl.c
-.\objects\ctrl.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-.\objects\ctrl.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\ctrl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ctrl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 .\objects\ctrl.o: MSP430\variant.h
 .\objects\ctrl.o: MSP430\ctrl.h
 .\objects\ctrl.o: MSP430\debug.h
@@ -26,4 +26,4 @@
 .\objects\ctrl.o: MSP430\comms.h
 .\objects\ctrl.o: MSP430\usci.h
 .\objects\ctrl.o: MSP430\protocol.h
-.\objects\ctrl.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\ctrl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h

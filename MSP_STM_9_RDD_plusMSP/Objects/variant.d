@@ -11,7 +11,7 @@
 .\objects\variant.o: .\CMSIS\inc\stm32f3xx.h
 .\objects\variant.o: .\CMSIS\inc\stm32f334x8.h
 .\objects\variant.o: .\CMSIS\inc\core_cm4.h
-.\objects\variant.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\variant.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\variant.o: .\CMSIS\inc\cmsis_version.h
 .\objects\variant.o: .\CMSIS\inc\cmsis_compiler.h
 .\objects\variant.o: .\CMSIS\inc\cmsis_armcc.h

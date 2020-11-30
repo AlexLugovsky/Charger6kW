@@ -11,7 +11,7 @@
 .\objects\safety.o: .\CMSIS\inc\stm32f3xx.h
 .\objects\safety.o: .\CMSIS\inc\stm32f334x8.h
 .\objects\safety.o: .\CMSIS\inc\core_cm4.h
-.\objects\safety.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\safety.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\safety.o: .\CMSIS\inc\cmsis_version.h
 .\objects\safety.o: .\CMSIS\inc\cmsis_compiler.h
 .\objects\safety.o: .\CMSIS\inc\cmsis_armcc.h
